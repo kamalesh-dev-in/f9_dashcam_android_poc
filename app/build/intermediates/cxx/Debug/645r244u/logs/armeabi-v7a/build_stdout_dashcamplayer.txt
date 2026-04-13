@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/kamalesh/workspace/flutter/android_poc_f9/app/.cxx/Debug/645r244u/armeabi-v7a'
+ninja: no work to do.

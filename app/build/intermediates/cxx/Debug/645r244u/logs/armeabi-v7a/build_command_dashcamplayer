@@ -1,0 +1,4 @@
+/Users/kamalesh/Library/Android/sdk/cmake/3.22.1/bin/ninja \
+  -C \
+  /Users/kamalesh/workspace/flutter/android_poc_f9/app/.cxx/Debug/645r244u/armeabi-v7a \
+  dashcamplayer

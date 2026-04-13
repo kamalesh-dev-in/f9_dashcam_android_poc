@@ -1,0 +1,20 @@
+-- The C compiler identification is Clang 14.0.6
+-- The CXX compiler identification is Clang 14.0.6
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /Users/kamalesh/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /Users/kamalesh/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- FFmpeg headers found in include directory
+-- FFmpeg libraries NOT found for x86_64 - building stub
+--   Looking in: /Users/kamalesh/workspace/flutter/android_poc_f9/app/src/main/cpp/../jniLibs/x86_64
+-- Building without FFmpeg support (stub mode)
+-- Linking without FFmpeg libraries (stub mode)
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/kamalesh/workspace/flutter/android_poc_f9/app/.cxx/Debug/645r244u/x86_64

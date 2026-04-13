@@ -1,0 +1,5 @@
+# ninja log v5
+1	111	1775542136530028454	CMakeFiles/dashcamplayer.dir/src/jni_bridge.cpp.o	83544588e6bccdcf
+4	115	1775542136532605550	CMakeFiles/dashcamplayer.dir/src/surface_renderer.cpp.o	85d29236553b3eed
+2	129	1775542136547602046	CMakeFiles/dashcamplayer.dir/src/ffmpeg_player.cpp.o	288b72ecd2f12cce
+129	261	1775542136671088866	/Users/kamalesh/workspace/flutter/android_poc_f9/app/build/intermediates/cxx/Debug/645r244u/obj/x86/libdashcamplayer.so	65db03ba2dafb4aa
